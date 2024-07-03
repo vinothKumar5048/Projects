@@ -1,0 +1,18 @@
+#register{
+    height: 300px;
+    width: 400px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   position: relative;
+   margin-top: 200px;
+   margin-left: 500px;
+   background-color: aqua;
+}
+td{
+    font-size: 20px;
+}
+#sendDataButton{
+   justify-content: center;
+   align-items: center;
+}
